@@ -4,7 +4,7 @@ A curated collection of useful commands and scripts for various operating system
 
 ## Repository Structure
 
-```
+````
 system-commands/
 ├── linux/
 │   ├── package-management/
@@ -30,8 +30,7 @@ system-commands/
     ├── bash/
     ├── python/
     └── powershell/
-
-```
+````
 
 ## Categories
 
@@ -48,7 +47,7 @@ The `cross-platform` directory contains commands that work across different oper
 
 Each command or script should be documented using the following format:
 
-```markdown
+````markdown
 ### Command Name
 
 **Description**: Brief description of what the command does
@@ -67,7 +66,7 @@ command --flag value
 - Additional information
 - Potential gotchas
 - Related commands
-```
+````
 
 ## Contributing
 
@@ -90,3 +89,7 @@ To add a new command:
 - [Windows Commands](windows/)
 - [Cross-Platform Tools](cross-platform/)
 - [Scripts](scripts/)
+
+## License
+
+This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
